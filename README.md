@@ -20,7 +20,7 @@ docker-compose up -d
 
 Acessar o container
 ```sh
-docker-compose exec teste_appmax bash
+docker-compose exec fiatcar bash
 ```
 
 Instalar as dependências do projeto
